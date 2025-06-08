@@ -1,7 +1,7 @@
 # Persian Food Image Processing 🍽️📷  
 
 ## Overview  
-This repository contains an image processing project focused on Persian food. The dataset includes high-quality images of various Persian dishes, and the code implements advanced image processing techniques for analysis, classification, and enhancement.
+This repository contains an image-processing project focused on Persian food. The dataset includes high-quality images of various Persian dishes, and the code implements advanced image processing techniques for analysis, classification, and enhancement.
 
 ## Dataset 📂  
 The dataset consists of images categorized by different Persian dishes. It is structured as follows:  
@@ -19,7 +19,7 @@ The dataset consists of images categorized by different Persian dishes. It is st
 | Kashk-e Bademjan    | Koofteh              | Khorak Jooje        |
 | Ab Dogh Khiar       | Pasta Alfredo        | Olovieh             |
 | Kuku Sabzi         | Loobia Polo         | Hamburger           |
-| Makaroni           | Omlet                | Sabzi Polo Ba Mahi  |
+| Makaroni           | Mirza Ghasemi         | Sabzi Polo Ba Mahi  |
 | Salad Kahoo        | Shirin Polo          | Tahchin             |
 
 
