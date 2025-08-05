@@ -28,9 +28,10 @@ The dataset consists of images categorized by different Persian dishes. It is st
 
 
 
-<img width="559" alt="image" src="https://github.com/user-attachments/assets/8b8498fb-7153-4bd2-b8aa-b61c071a218a" />
 
 
+
+<img width="800"  alt="ImageCountDistribution" src="https://github.com/user-attachments/assets/6b3b4fa9-e8cb-4fba-ab5f-c5a9901c1469" />
 
 
 
