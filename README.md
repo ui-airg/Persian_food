@@ -11,12 +11,12 @@ The dataset consists of images categorized by different Persian dishes. It is st
 
 | Class Name           | Class Name           | Class Name           |
 |----------------------|----------------------|----------------------|
-| Khoresh-e Karafs    | Abgoosht             | Adas Polo           |
+| Khoresh Karafs    | Abgoosht             | Adas Polo           |
 | Ash Reshte         | Baghali Polo         | Khorak Kabab        |
 | Polo Berenj         | Dolmeh               | Khoresht Bamieh     |
 | Fesenjan            | Gheimeh              | Ghormeh Sabzi       |
 | Zereshk Polo Ba Morgh | Kalam Polo       | Kaleh Pacheh        |
-| Kashk-e Bademjan    | Koofteh              | Khorak Jooje        |
+| Kashk Bademjan    | Koofteh              | Khorak Jooje        |
 | Ab Dogh Khiar       | Pasta Alfredo        | Olovieh             |
 | Kuku Sabzi         | Loobia Polo         | Hamburger           |
 | Makaroni           | Mirza Ghasemi         | Sabzi Polo Ba Mahi  |
